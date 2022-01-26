@@ -2551,7 +2551,6 @@ h3 .notion-page__icon div {
 
 .notion-semantic-string {
   line-height: 1.5;
-  white-space: pre-wrap;
   word-break: break-word;
 }
 
